@@ -1,2 +1,2 @@
-# Medium-sdk-csharp
+# MediumServer
 Encapsulation of API supplied by Medium
